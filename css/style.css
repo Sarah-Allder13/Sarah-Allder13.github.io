@@ -121,6 +121,10 @@ top:1px;
   height: auto;
 }
 
+a{
+  color:#081C15;
+}
+
 .mins {
   display: inline-block;
   font-family: 'halant';
